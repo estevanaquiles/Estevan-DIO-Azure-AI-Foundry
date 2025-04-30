@@ -31,7 +31,7 @@ Repositório criado para laboratório de projeto de AI utilizando Azure AI - Fou
 ##### Configuração de Prompt:
 ![configuração_do_prompt](https://github.com/user-attachments/assets/93d8cfb4-316a-4f54-a5c7-b182b6dc8636)
 
-##### Perguntas e respostas do prompr:
+##### Perguntas e respostas do prompt:
  Foram realizadas as seguintes perguntas ao modelo: 
 "Como posso avaliar os riscos envolvidos em investimentos financeiros?"
 "Com base nos critérios de avaliação citados é possível definir a quantidade ideal de ativos na carteira, visando minimizar os riscos envolvidos?"
